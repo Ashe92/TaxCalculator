@@ -1,0 +1,5 @@
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TestTaxCalculator\bin\Debug\TestTaxCalculator.dll
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TestTaxCalculator\bin\Debug\TestTaxCalculator.pdb
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TestTaxCalculator\obj\Debug\TestTaxCalculator.csprojResolveAssemblyReference.cache
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TestTaxCalculator\obj\Debug\TestTaxCalculator.dll
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TestTaxCalculator\obj\Debug\TestTaxCalculator.pdb

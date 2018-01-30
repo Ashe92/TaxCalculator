@@ -1,0 +1,9 @@
+G:\Studies\TaxCalculator\Console\bin\Debug\Console.exe.config
+G:\Studies\TaxCalculator\Console\bin\Debug\Console.exe
+G:\Studies\TaxCalculator\Console\bin\Debug\Console.pdb
+G:\Studies\TaxCalculator\Console\bin\Debug\TaxCalculator.dll
+G:\Studies\TaxCalculator\Console\bin\Debug\TaxCalculator.pdb
+G:\Studies\TaxCalculator\Console\obj\Debug\ConsoleStart.csprojResolveAssemblyReference.cache
+G:\Studies\TaxCalculator\Console\obj\Debug\ConsoleStart.csproj.CoreCompileInputs.cache
+G:\Studies\TaxCalculator\Console\obj\Debug\Console.exe
+G:\Studies\TaxCalculator\Console\obj\Debug\Console.pdb

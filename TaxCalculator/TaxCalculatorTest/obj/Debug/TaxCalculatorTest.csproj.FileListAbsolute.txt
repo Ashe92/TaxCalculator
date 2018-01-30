@@ -1,0 +1,29 @@
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.dll
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.pdb
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.csprojResolveAssemblyReference.cache
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.dll
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.pdb
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.dll
+c:\users\inf138537\documents\visual studio 2015\Projects\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.pdb
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.dll
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.pdb
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.dll
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.pdb
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.dll
+C:\Users\inf138537\Desktop\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.pdb
+F:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.dll
+F:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.pdb
+F:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.dll
+F:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.pdb
+F:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.csprojResolveAssemblyReference.cache
+F:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.dll
+F:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.pdb
+G:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.dll
+G:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculatorTest.pdb
+G:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.dll
+G:\Studies\TaxCalculator\TaxCalculatorTest\bin\Debug\TaxCalculator.pdb
+G:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.csprojResolveAssemblyReference.cache
+G:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.csproj.CoreCompileInputs.cache
+G:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.dll
+G:\Studies\TaxCalculator\TaxCalculatorTest\obj\Debug\TaxCalculatorTest.pdb
